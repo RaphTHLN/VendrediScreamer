@@ -1,5 +1,9 @@
 # VendrediScreamer
 
+## 📹 Demo du tool
+[![Watch the video](https://img.youtube.com/vi/-RcN3BHB_Tg/maxresdefault.jpg)](https://youtu.be/-RcN3BHB_Tg)
+
+
 ## 🛠️ Prérequis
 
 - Python 3.8+
